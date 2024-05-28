@@ -15,8 +15,8 @@ from datetime import datetime, timedelta
 # In[45]:
 
 
-api_key = '6HpIsqHafNXaeeHvp7ZFCKCKT0KZUGvOPUkrSTrDIUuOIBxcNjWQBLy1kYyK2WfG'
-api_secret = 'XrbUb0b8LlfqeUh9FaqM0bGCP2ew0gW6IhKDPSf9Awjh1WPGjwmS8Cn0L5xJl0WO'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
 
